@@ -10,7 +10,8 @@ Für dem LG-Smart-TV - Webbrowser - mit Verwendung von mediathekviewweb.de .
 # 📺 Home TV Dashboard
 
 Ein minimalistisches, webbasiertes Dashboard für das Wohnzimmer. Es vereint Live-TV vom Enigma2-Receiver, automatisierte Mediatheken und Smart-Home-Links.
-(mit der Unterstützung von Google-Gemini) (andere TV-Geräte wurden nicht getestet)
+(mit der Unterstützung von Google-Gemini) (andere TV-Geräte wurden nicht getestet) 
+Die Mediathek inhalte werden von www.mediathekviewweb.de geladen. Das ganze ist auf Deutschland begrenzt.
 
 ## 🚀 Kern-Features
 - **Automatisches Mediathek-Update:** Holt sich per RSS die neuesten Inhalte von MediathekViewWeb.
