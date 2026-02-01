@@ -27,6 +27,6 @@ Die Mediathek inhalte werden von www.mediathekviewweb.de geladen. Das ganze ist 
 4. Starten: `python3 app.py`
 
 ## 📂 Struktur
-- `app.py`: Die gesamte Logik (Backend & Frontend).
+- `tv.py`: Die gesamte Logik (Backend & Frontend).
 - `wald2.jpg`: Dein Hintergrundbild.
 - `requirements.txt`: Benötigte Python-Bibliotheken.
