@@ -1,7 +1,7 @@
 # 📺 Home TV Dashboard (ROOT HUB)
 
-Ein minimalistisches Smart-TV-Dashboard für Enigma2-Receiver und Mediatheken.
-Für dem LG-Smart-TV - Webbrowser
+Ein minimalistisches Smart-TV-Dashboard für Enigma2-Receiver und der Deutschen Mediatheken.
+Für dem LG-Smart-TV - Webbrowser - mit Verwendung von mediathekviewweb.de .
 
 (ROOT HUB Dashboard)
 ![Neues Dashboard](LG-TV-Mediathek.jpg)
